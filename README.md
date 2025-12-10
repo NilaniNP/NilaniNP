@@ -19,7 +19,7 @@ I love transforming messy datasets into clear, visual stories that help business
 When I'm not working with data, you can find me playing piano 🎹, exploring new analytics techniques, or delving into research to uncover meaningful trends and insights.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://nilaninp.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
